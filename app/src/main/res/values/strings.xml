@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemonimage">pokemonImage</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="ataque_1">Ataque 1</string>
+    <string name="ataque_2">Ataque 2</string>
+    <string name="ataque_3">Ataque 3</string>
+    <string name="ataque_4">Ataque 4</string>
+    <string name="crear">CREAR</string>
+    <string name="close">Close</string>
+    <string name="click_aqu">CLICK AQUÍ</string>
+    <string name="bienvenido_a_tu">Bienvenido a tu</string>
+    <string name="pokedex">POKEDEX</string>
+    <string name="order_by">Order by:</string>
+    <string name="welcome_back_mr_david">Welcome Back Mr.David</string>
+    <string name="profileimage">profileImage</string>
+    <string name="david_professor">David Professor</string>
+    <string name="abrir_la_pokedex">Abrir la POKEDEX</string>
+</resources>
